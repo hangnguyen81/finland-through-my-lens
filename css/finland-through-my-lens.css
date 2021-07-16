@@ -83,6 +83,7 @@ h2{
     margin-bottom: 0.125em;
     color: whitesmoke;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    line-height: 1.5rem;
 }
 .page-subtitle{
     font-size: .8rem;
