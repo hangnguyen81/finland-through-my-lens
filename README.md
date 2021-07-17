@@ -1,4 +1,4 @@
 # finland-through-my-lens
-A blog was built with pure HTML5, CSS and self UX design!
+A responsive webblog was built with pure HTML5, CSS and self UX design!
 
 
