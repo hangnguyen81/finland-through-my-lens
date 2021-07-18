@@ -1,15 +1,8 @@
 /* font-family: 'Lato', sans-serif;
 font-family: 'Oswald', sans-serif; */
-
-/* Color schema of page
-
-Green Mountain: #3d7c47
-
-Blue Mountain: #09868b
-
-Light Blue Backdrop: #76c1d4
-
-Barely Gray Edge: #f7f7f7 */
+*{
+    box-sizing: border-box;
+}
 
 body{
     margin: 0;
@@ -66,7 +59,8 @@ footer{
 /* Typography */
 
 h1,
-h2{
+h2,
+h3{
     font-family: 'Oswald', sans-serif;
     color: #3d7c47;
     letter-spacing: 1px;
@@ -192,6 +186,8 @@ nav a:focus{
     object-position: top;
 }
 
+
+
 .article-featured .article-info{
     order:-1;
     margin-bottom: 0;
@@ -240,4 +236,45 @@ nav a:focus{
     .article-recent-title{
         margin-top: 0;
     }
+}
+
+.image-full{
+    width: 100%;
+    max-height: 250px;
+    object-fit: cover;
+    object-position:bottom;
+    margin-bottom: 1em;  
+}
+
+/* Contact form */
+.contact-form{
+    max-width: 500px;
+    width: 100%;
+    border: 1px solid #1a351f;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+
+input, 
+textarea{
+    width: 100%;
+    font-size: 1rem;
+    /* font-style: italic; */
+    padding: .5em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    border: 1px solid #3d7c47;
+}
+.btn{
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color:#1a351f;
+    color: whitesmoke;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.btn:hover,
+.btn:focus{
+    background-color: #3d7c47;
+
 }
