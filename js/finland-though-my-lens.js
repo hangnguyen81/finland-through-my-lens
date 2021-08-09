@@ -31,7 +31,7 @@ let images = [
     },
     {
         title:'Wild flowers',
-        url: 'images/flowers/05.jpg',
+        url: 'images/flowers/05.JPG',
         type: 'flowers',
         alt:'Garden of flowers',
         des:'Garden of flowers'
