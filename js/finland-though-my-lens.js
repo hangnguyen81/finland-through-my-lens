@@ -24,7 +24,7 @@ let images = [
     },
     {
         title:'Rose under the sun light',
-        url: 'images/flowers/04.jpg',
+        url: 'images/flowers/04.JPG',
         type: 'flowers',
         alt:'Rose under the sun',
         des:'Rose under the sun'
@@ -87,7 +87,7 @@ let images = [
     },
     {
         title:'Sunset in Autumn',
-        url: 'images/nature/01.jpg',
+        url: 'images/nature/01.JPG',
         type: 'nature',
         alt:'Sunset near the lake in Autumn',
         des:'Sunset near the lake in Autumn'
@@ -108,7 +108,7 @@ let images = [
     },
     {
         title:'Sunshine summer',
-        url: 'images/nature/05.jpg',
+        url: 'images/nature/05.JPG',
         type: 'nature',
         alt:'Sunshine summer',
         des:'Blue sky in summer day'
