@@ -1,5 +1,3 @@
-// import {images} from 'images.js'
-
 let images = [
     {
         title:'Little daisy',
@@ -92,13 +90,6 @@ let images = [
         alt:'Sunset near the lake in Autumn',
         des:'Sunset near the lake in Autumn'
     },
-    // {
-    //     title:'White winter',
-    //     url: 'images/nature/03.jpg',
-    //     type: 'nature',
-    //     alt:'White winter',
-    //     des:'White snow in winter'
-    // },
     {
         title:'Amazing winter',
         url: 'images/nature/04.jpg',
